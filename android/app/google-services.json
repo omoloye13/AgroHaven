@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831822466697",
+    "project_id": "agro-haven",
+    "storage_bucket": "agro-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831822466697:android:b3d881b71935f632e2c058",
+        "android_client_info": {
+          "package_name": "com.example.agro_haven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIsNJ5lV9TGWKoIYUrAJakY8AADLR_PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831822466697:android:c6cfed010fbdcfb2e2c058",
+        "android_client_info": {
+          "package_name": "com.example.agrohaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIsNJ5lV9TGWKoIYUrAJakY8AADLR_PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
